@@ -64,13 +64,3 @@ To test the hypothesis:
 10. **GitHub Markdown Guide** – Formatting project documentation.
 
 ---
-
-## 📎 Presentation
-
-The final presentation summarizes findings, visualizations, and recommendations for CallMeMaybe’s supervisor dashboard.
-
-📄 [Download PDF Presentation](https://example.com/presentation-link) ← *(Replace with your actual link)*
-
----
-
-## 📁 File Structure
